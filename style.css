@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Inika&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Inika', serif;
+}
+
+nav{
+    background: #f7b600;
+    margin-bottom: 20px;
+    text-align: center;
+    height: 130px;
+}
+
+.logo{
+    padding: 20px;
+    font-size: 40px;
+}
+
+span{
+    color: aliceblue;
+}
+
+a{
+    text-decoration: none;
+    margin: 35px;
+    color: white;
+    padding: 5px;
+}
+
+a:hover{
+    background: white;
+    color: #f7b600;
+    border-radius: 10px;
+}
